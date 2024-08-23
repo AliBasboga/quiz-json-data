@@ -1,0 +1,1652 @@
+[
+    {
+        "id": 1,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Dünya'nın en büyük okyanusu Atlas Okyanusu'dur.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 2,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "İstanbul, Türkiye'nin başkentidir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 3,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Güneş, bir yıldızdır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 4,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "İspanya'nın başkenti Mardin'dir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 5,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Piramitler, Mısır'da bulunur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 6,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Su, H2O formülüyle gösterilir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 7,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Beethoven, ünlü bir ressamdır.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 8,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Beethoven, ünlü bir ressamdır.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 9,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Sokrates, Antik Yunan filozofudur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 10,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Avustralya, bir kıtadır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 11,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Newton, yerçekimi teorisini geliştirmiştir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 12,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Everest Dağı, Afrika'da yer alır.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 13,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Venüs, Güneş'e en yakın gezegendir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 14,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Leonardo da Vinci, Mona Lisa'yı resmetmiştir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 15,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Dünyanın en kalabalık ülkesi Çin'dir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 16,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Alpler, Avrupa'da bir dağ silsilesidir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 17,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Plüton, Güneş Sistemi'nde bir gezegendir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 18,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Selahaddin Eyyubi Kürd'mü?.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 19,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Nil Nehri, Afrika'nın en uzun nehridir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 20,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Pizza, İtalya kökenlidir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 21,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Rusya, yüzölçümü bakımından dünyanın en büyük ülkesidir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 22,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Sahra Çölü, dünyanın en büyük çölüdür.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 23,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Galileo, teleskopla yaptığı gözlemlerle tanınır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 24,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Eiffel Kulesi, Berlin'de bulunur.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 25,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Mars, Güneş Sistemi'nde yer alır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 26,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Afrika, 7 kıtadan biridir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 27,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Soğuk Savaş, ABD ve SSCB arasında yaşanmıştır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 28,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Ay, Dünya'nın uydusudur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 29,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Titanic, 1912'de battı.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 30,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "İngiltere, bir ada ülkesidir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 31,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Norveç, İskandinavya'da bir ülkedir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 32,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Fransızca, Fransa'nın resmi dilidir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 33,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Kristof Kolomb, Amerika'yı keşfetti.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 34,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Dünya'nın en büyük çölü Antarktika'dadır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 35,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Kanada'nın başkenti Toronto'dur.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 36,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Mozart, bir klasik müzik bestecisidir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 37,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Hindistan, nüfus bakımından dünyanın en büyük ülkelerinden biridir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 38,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Mavi Balina, dünyanın en büyük hayvanıdır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 39,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Antarktika'da bir orman bulunur.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 40,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "İtalya'nın başkenti Roma'dır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 41,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "İngiltere Kraliçesi II. Elizabeth, 1952'de tahta çıktı.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 42,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "K2 Dağı, Everest'ten daha yüksektir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 43,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Hawaii, Amerika Birleşik Devletleri'ne aittir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 44,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Türkiye, hem Asya hem Avrupa kıtalarında yer alır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 45,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Machu Picchu, Peru'da bulunur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 46,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Nil Nehri, Afrika'nın kuzeyinden akar.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 47,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Japonya, Güneş'in doğduğu ülke olarak bilinir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 48,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Hindistan'da ana din Hinduizm'dir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 49,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Orta Doğu, Asya kıtasında yer alır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 50,
+        "type": "boolean",
+        "difficulty": "kolay",
+        "category": "Genel Bilgi",
+        "query": "Amazon, dünyanın en büyük yağmur ormanıdır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 51,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Roma İmparatorluğu'nun başkenti Roma'dır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 52,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Nobel Barış Ödülü ilk olarak 1901 yılında verilmiştir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 53,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Afrika kıtasında toplam 54 ülke bulunmaktadır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 54,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Fransa'nın başkenti Paris'tir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 55,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Bir yıl içinde 13 ay vardır.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 56,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Beyaz ayı, Kuzey Kutbu'nda yaşayan bir tür ayıdır.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 57,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Dünya'nın en yüksek dağı Everest'tir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 58,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Venüs gezegeni Güneş Sistemi'ndeki en sıcak gezegendir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 59,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "İstanbul Türkiye'nin başkentidir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 60,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Leonardo da Vinci'nin ünlü tablosu 'Son Akşam Yemeği'dir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 61,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Mozart, 18. yüzyılın bir bestecisidir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 62,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Plüton, 2006 yılında gezegen statüsünden çıkarılmıştır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 63,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Avustralya, aynı zamanda bir kıta olarak kabul edilmektedir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 64,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Ay, Dünya'nın doğal uydusudur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 65,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Meksika'nın başkenti São Paulo'dur.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 66,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Shakespeare, İngiliz bir oyun yazarıdır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 67,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Güneş Sistemi'nde 8 gezegen bulunmaktadır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 68,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Leonardo da Vinci'nin 'Mona Lisa' tablosu Louvre Müzesi'nde sergilenmektedir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 69,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Küba'nın başkenti Havana'dır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 70,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Mona Lisa tablosu, Vincent van Gogh tarafından yapılmıştır.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 71,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Çin Seddi, uzaydan çıplak gözle görülebilir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 72,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Japonya'nın para birimi yen'dir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 73,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Nuh'un Gemisi'nin bulunduğu yer, modern Türkiye sınırları içindedir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 74,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Dünya'nın en uzun nehri Nil'dir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 75,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Brezilya'nın resmi dili Portekizce'dir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 76,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Ekvador, Güney Amerika'da bir ülkedir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 77,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Nihilizm, bir felsefi akımdır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 78,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Hindistan'ın başkenti Mumbai'dir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 79,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Sırasıyla kırmızı, turuncu, sarı, yeşil, mavi ve mor renklerini içeren gökkuşağı, 6 renkli bir spektrumdur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 80,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "William Shakespeare'in 'Hamlet' adlı eserinde, 'To be or not to be' ünlü monoloğu yer almaktadır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 81,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Giza Piramitleri Mısır'da yer almaktadır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 82,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "İspanyolca konuşulan ülkeler arasında Arjantin, Kolombiya ve Şili bulunmaktadır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 83,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Monako, Avrupa'da bir ülke olarak kabul edilmez.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 84,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Almanya'nın başkenti Berlin'dir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 85,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Venüs gezegeni, Güneş Sistemi'ndeki en büyük gezegendir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 86,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Güneş Sistemi'ndeki en büyük gezegen Jüpiter'dir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 87,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Rönesans dönemi 15. ve 16. yüzyılları kapsamaktadır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 88,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "İtalya'nın başkenti Venedik'tir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 89,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Almanya'nın başkenti Paris'tir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 90,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Atmosferin en alt tabakasına troposfer denir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 91,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": " Rüzgarın hızını ölçen cihaza ampermetre denir. ",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 92,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "En küçük ülke vatikan'dır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 93,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Güneşe en yakın gezegen neptün'dür.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 94,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Kuyucaklı Yusuf adlı roman Sabahattin Ali'nindir",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 95,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Civa Sıvı olarak bulunan tek metaldir",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 96,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Mardin'de demiryolu yoktur",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 97,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Dünya saat yönünün tersine dönen tek gezegendir",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 98,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Parayı lidyalılar bulmuştur",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 99,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Güneş batıdan doğup doğudan batar",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 100,
+        "type": "boolean",
+        "difficulty": "orta",
+        "category": "Genel Bilgi",
+        "query": "Evrenin en iyi futbolcusu C.Ronaldo'dur",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 101,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Dünyanın en yüksek dağı Everest Dağı’dır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 102,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "İkinci Dünya Savaşı sırasında Japonya, Almanya’nın yanında savaşa girmedi.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 103,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Mona Lisa tablosu Vincent van Gogh tarafından yapılmıştır.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 104,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Mars gezegeni Dünya’dan daha büyüktür.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 105,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Güneş sistemi içinde 8 gezegen bulunur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 106,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Albert Einstein, Nobel Fizik Ödülü’nü 1921 yılında kazanmıştır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 107,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Shakespeare'in yazdığı oyunlardan biri 'Hamlet'tir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 108,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Antarktika kıtasında yaşamış ilk yerleşimci, Amundsen'dir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 109,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Giza Piramitleri Mısır'da bulunur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 110,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Da Vinci'nin 'Son Akşam Yemeği' tablosu Paris'te sergilenmektedir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 111,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Everest Dağı, Himalaya Dağları'nda yer alır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 112,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Meksika'nın başkenti Madrid'dir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 113,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Avrupa Birliği'ne üye ülkeler arasında İsviçre bulunur.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 114,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Mars gezegeni 'Kırmızı Gezegen' olarak bilinir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 115,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Leonardo da Vinci’nin ünlü 'Vitruvian Adam' çizimi, insan anatomi ile ilgilidir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 116,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "William Shakespeare, 17. yüzyılda yaşamıştır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 117,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Türkiye’nin başkenti İstanbul’dur.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 118,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Amazon Ormanları, Güney Amerika'da bulunur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 119,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Dünya’daki en büyük okyanus Pasifik Okyanusu’dur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 120,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "İtalya'nın başkenti Roma'dır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 121,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Leonardo da Vinci'nin 'Mona Lisa' tablosu Londra'da sergilenmektedir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 122,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Adolf Hitler, Almanya’nın başbakanı olmuştur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 123,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Newton'un hareket yasaları, fiziksel hareketlerle ilgili temel ilkeleri açıklar.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 124,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Beethoven, Barok dönemi bir bestecisidir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 125,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Himalaya Dağları, Asya kıtasında bulunur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 126,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Nobel Ödülleri her yıl Ekim ayında verilir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 127,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Jupiter gezegeni, Güneş Sistemi’ndeki en büyük gezegendir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 128,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Hangi gezegen 'Yeşil Gezegen' olarak bilinir?",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 129,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Japonya'nın başkenti Tokyo’dur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 130,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Nobel Barış Ödülü ilk kez 1901 yılında verilmiştir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 131,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Meksika, Güney Amerika kıtasında yer alır.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 132,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Vladimir Putin, Rusya'nın başkanıdır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 133,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Vermeer’in ünlü eseri 'İnci Küpeli Kız' Amsterdam’da sergilenmektedir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 134,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Göbekli Tepe, Türkiye’nin Antalya ilinde yer almaktadır.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 135,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Kızıl Gezegen olarak bilinen gezegen Mars’tır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 136,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Paskalya Adaları, Şili’nin kıyısında yer alır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 137,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Hangi gezegen 'Güneş Sistemi'nin kuyruğu' olarak bilinir?",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 138,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Yunan mitolojisinde Zeus’un babası Kronos’tur.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 139,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Türkiye’nin en yüksek noktası Ağrı Dağı’dır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 140,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Nil Nehri, Afrika’nın en uzun nehridir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 141,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Mozart, Romantik dönemin en önemli bestecilerindendir.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 142,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Albert Einstein, görelilik teorisi ile tanınmıştır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 143,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Nisan ayında doğan bir kişi Koç burcundandır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 144,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Büyük Çin Seddi, Çin’in güney sınırını korumak için yapılmıştır.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 145,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Dünyanın en derin okyanusu Atlantik Okyanusu’dur.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 146,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Chicago, Amerika Birleşik Devletleri’nin üçüncü büyük şehridir.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 147,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Fransa’nın resmi dili Almanca’dır.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    },
+    {
+        "id": 148,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "'Savaş ve Barış' adlı roman, Lev Tolstoy tarafından yazılmıştır.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 149,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Güneş Sistemi’nde en fazla uydusu olan gezegen Satürn’dür.",
+        "true_answer": "true",
+        "false_answers": [
+            "false"
+        ]
+    },
+    {
+        "id": 150,
+        "type": "boolean",
+        "difficulty": "zor",
+        "category": "Genel Bilgi",
+        "query": "Antik Roma’daki gladyatör dövüşleri sadece eğlence amaçlı yapılırdı.",
+        "true_answer": "false",
+        "false_answers": [
+            "true"
+        ]
+    }
+]
