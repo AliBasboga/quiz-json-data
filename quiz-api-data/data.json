@@ -552,7 +552,7 @@
     {
         "id": 51,
         "type": "boolean",
-        "difficulty": "orta",
+        "difficulty": "kolay",
         "category": "Genel Bilgi",
         "query": "Roma İmparatorluğu'nun başkenti Roma'dır.",
         "true_answer": "true",
@@ -1102,7 +1102,7 @@
     {
         "id": 101,
         "type": "boolean",
-        "difficulty": "zor",
+        "difficulty": "orta",
         "category": "Genel Bilgi",
         "query": "Dünyanın en yüksek dağı Everest Dağı’dır.",
         "true_answer": "true",
